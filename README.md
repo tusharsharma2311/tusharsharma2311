@@ -23,9 +23,9 @@
 
 ### 📫 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/sharma-tushar11))
-- [Instagram]([https://twitter.com/yourusername](https://www.instagram.com/tushar_sharma_2311/))
-- [Portfolio]([https://www.yourportfolio.com](https://tusharsharma2311.github.io/TusharPortfolio.github.io))
+- [LinkedIn]((https://www.linkedin.com/in/sharma-tushar11))
+- [Instagram]((https://www.instagram.com/tushar_sharma_2311/))
+- [Portfolio]((https://tusharsharma2311.github.io/TusharPortfolio.github.io))
 
 
 Excited about the intersection of data and technology! Let's analyze some data together! 🚀
