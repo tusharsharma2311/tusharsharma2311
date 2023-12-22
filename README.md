@@ -23,7 +23,8 @@
 
 ### 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/sharma-tushar11)
+- [LinkedIn](https://www.linkedin.com/in/sharma-tushar11)<a href="https://www.linkedin.com/in/sharma-tushar11" target="_blank">[LinkedIn]</a>
+
 - [Instagram](https://www.instagram.com/tushar_sharma_2311/)
 - [Portfolio](https://tusharsharma2311.github.io/TusharPortfolio.github.io)
 
