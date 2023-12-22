@@ -27,9 +27,6 @@
 - [Instagram]([https://twitter.com/yourusername](https://www.instagram.com/tushar_sharma_2311/))
 - [Portfolio]([https://www.yourportfolio.com](https://tusharsharma2311.github.io/TusharPortfolio.github.io))
 
-### 📊 GitHub Stats
-
- [My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs)
 
 Excited about the intersection of data and technology! Let's analyze some data together! 🚀
 
